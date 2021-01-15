@@ -1,0 +1,10 @@
+{
+    "name": "GitHub 登录",
+    "brief": "GitHub OAuth 登录 Xiuno BBS",
+    "version": "1.0",
+    "bbs_version": "4.0.4",
+    "installed": 0,
+    "enable": 0,
+    "hooks_rank": [],
+    "dependencies": []
+}
